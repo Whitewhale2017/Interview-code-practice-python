@@ -42,6 +42,6 @@ for i in range(3):
             k += 2
             x4.pop()
 
-print res
-print sum(int(i) for i in res) - 1
+print (res)
+print (sum(int(i) for i in res) - 1)
 
